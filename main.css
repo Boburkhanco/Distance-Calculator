@@ -1,0 +1,48 @@
+
+.title{
+    text-align: center;
+    font-style: 35px;
+    color: rgba(0, 0, 0, 0.809);
+    font-family: arial;
+    font-weight: 200;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.inputs{
+    justify-content: center;
+}
+.input{
+    width: 30%;
+    max-width: 300px;
+}
+.submit{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 10%;
+    max-width: 100px;
+    background-color: #E7E7E7;
+    font-weight: 600;
+    font-family: arial;
+}
+.submit:hover{
+    background-color: black;
+    color: white;
+    border-color: rgb(0, 0, 0);
+    transition: all .3s ease;
+    
+}
+.soat{
+    font-family: 25px;
+    font-weight: 600;
+}
+.box {
+    border: 2px solid black;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+    width: 30%;
+    max-width: 300px;
+}
+.box-title{
+    margin-top: 30px;
+}
